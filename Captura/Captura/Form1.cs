@@ -41,5 +41,13 @@ namespace Captura
             c.Hide();
             c.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            GuiaEmbarque d = new GuiaEmbarque();
+            this.Visible = false;
+            d.Hide();
+            d.Show();
+        }
     }
 }

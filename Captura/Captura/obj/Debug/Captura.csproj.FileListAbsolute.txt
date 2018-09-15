@@ -24,3 +24,7 @@ C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.csproj.Ge
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CoreCompileInputs.cache
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.exe
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.pdb
+C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\bin\Debug\MySql.Data.dll
+C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\bin\Debug\MySql.Data.xml
+C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CopyComplete
+C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.GuiaEmbarque.resources
