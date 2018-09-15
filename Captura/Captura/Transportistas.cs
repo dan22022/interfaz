@@ -24,5 +24,10 @@ namespace Captura
             a.Hide();
             a.Show();
         }
+
+        private void Transportistas_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

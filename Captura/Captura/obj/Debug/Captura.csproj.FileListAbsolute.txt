@@ -24,3 +24,16 @@ C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.csproj.Ge
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CoreCompileInputs.cache
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.exe
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.pdb
+C:\Git_Inntech\interfaz\Captura\Captura\bin\Debug\Captura.exe.config
+C:\Git_Inntech\interfaz\Captura\Captura\bin\Debug\Captura.exe
+C:\Git_Inntech\interfaz\Captura\Captura\bin\Debug\Captura.pdb
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.csprojAssemblyReference.cache
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.CFDI.resources
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.Datos.resources
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.Form1.resources
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.Properties.Resources.resources
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.Transportistas.resources
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.csproj.GenerateResource.cache
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CoreCompileInputs.cache
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.exe
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.pdb
