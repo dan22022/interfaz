@@ -83,77 +83,77 @@
             this.textBox11.Location = new System.Drawing.Point(171, 483);
             this.textBox11.Name = "textBox11";
             this.textBox11.Size = new System.Drawing.Size(230, 20);
-            this.textBox11.TabIndex = 51;
+            this.textBox11.TabIndex = 11;
             // 
             // textBox10
             // 
             this.textBox10.Location = new System.Drawing.Point(171, 443);
             this.textBox10.Name = "textBox10";
             this.textBox10.Size = new System.Drawing.Size(230, 20);
-            this.textBox10.TabIndex = 50;
+            this.textBox10.TabIndex = 10;
             // 
             // textBox9
             // 
             this.textBox9.Location = new System.Drawing.Point(171, 403);
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(230, 20);
-            this.textBox9.TabIndex = 49;
+            this.textBox9.TabIndex = 9;
             // 
             // textBox8
             // 
             this.textBox8.Location = new System.Drawing.Point(171, 363);
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(230, 20);
-            this.textBox8.TabIndex = 48;
+            this.textBox8.TabIndex = 8;
             // 
             // textBox7
             // 
             this.textBox7.Location = new System.Drawing.Point(171, 323);
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(230, 20);
-            this.textBox7.TabIndex = 47;
+            this.textBox7.TabIndex = 7;
             // 
             // textBox6
             // 
             this.textBox6.Location = new System.Drawing.Point(171, 283);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(230, 20);
-            this.textBox6.TabIndex = 46;
+            this.textBox6.TabIndex = 6;
             // 
             // textBox5
             // 
             this.textBox5.Location = new System.Drawing.Point(171, 243);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(230, 20);
-            this.textBox5.TabIndex = 45;
+            this.textBox5.TabIndex = 5;
             // 
             // textBox4
             // 
             this.textBox4.Location = new System.Drawing.Point(171, 203);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(230, 20);
-            this.textBox4.TabIndex = 44;
+            this.textBox4.TabIndex = 4;
             // 
             // textBox3
             // 
             this.textBox3.Location = new System.Drawing.Point(171, 163);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(230, 20);
-            this.textBox3.TabIndex = 43;
+            this.textBox3.TabIndex = 3;
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(171, 123);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(230, 20);
-            this.textBox2.TabIndex = 42;
+            this.textBox2.TabIndex = 2;
             // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(171, 83);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(230, 20);
-            this.textBox1.TabIndex = 41;
+            this.textBox1.TabIndex = 1;
             // 
             // label9
             // 
@@ -259,7 +259,7 @@
             this.button2.Location = new System.Drawing.Point(375, 536);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 29;
+            this.button2.TabIndex = 12;
             this.button2.Text = "Guardar";
             this.button2.UseVisualStyleBackColor = true;
             // 
@@ -268,7 +268,7 @@
             this.button1.Location = new System.Drawing.Point(493, 536);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 28;
+            this.button1.TabIndex = 12;
             this.button1.Text = "Canselar";
             this.button1.UseVisualStyleBackColor = true;
             // 
@@ -286,14 +286,14 @@
             this.textBox12.Location = new System.Drawing.Point(672, 49);
             this.textBox12.Name = "textBox12";
             this.textBox12.Size = new System.Drawing.Size(143, 20);
-            this.textBox12.TabIndex = 55;
+            this.textBox12.TabIndex = 13;
             // 
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(836, 47);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 56;
+            this.button3.TabIndex = 14;
             this.button3.Text = "Buscar";
             this.button3.UseVisualStyleBackColor = true;
             // 
@@ -302,7 +302,7 @@
             this.B_regresar.Location = new System.Drawing.Point(836, 536);
             this.B_regresar.Name = "B_regresar";
             this.B_regresar.Size = new System.Drawing.Size(75, 23);
-            this.B_regresar.TabIndex = 57;
+            this.B_regresar.TabIndex = 15;
             this.B_regresar.Text = "Regresar";
             this.B_regresar.UseVisualStyleBackColor = true;
             this.B_regresar.Click += new System.EventHandler(this.B_regresar_Click);
@@ -312,6 +312,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(977, 571);
+            this.ControlBox = false;
             this.Controls.Add(this.B_regresar);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.textBox12);
