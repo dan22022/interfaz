@@ -49,5 +49,11 @@ namespace Captura
             d.Hide();
             d.Show();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            conexionbd conexion = new conexionbd();
+            conexion.abrir();
+        }
     }
 }

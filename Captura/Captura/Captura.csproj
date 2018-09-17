@@ -53,6 +53,7 @@
     <Compile Include="CFDI.Designer.cs">
       <DependentUpon>CFDI.cs</DependentUpon>
     </Compile>
+    <Compile Include="conexionbd.cs" />
     <Compile Include="Destinos.cs">
       <SubType>Form</SubType>
     </Compile>

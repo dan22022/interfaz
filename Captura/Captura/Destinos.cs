@@ -24,5 +24,10 @@ namespace Captura
             a.Hide();
             a.Show();
         }
+
+        private void Destinos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

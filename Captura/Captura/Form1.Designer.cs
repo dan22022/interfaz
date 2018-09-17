@@ -37,9 +37,10 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(268, 108);
+            this.button2.Location = new System.Drawing.Point(715, 258);
+            this.button2.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(95, 71);
+            this.button2.Size = new System.Drawing.Size(253, 169);
             this.button2.TabIndex = 2;
             this.button2.Text = "Destinos";
             this.button2.UseVisualStyleBackColor = true;
@@ -48,9 +49,10 @@
             // button1
             // 
             this.button1.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.button1.Location = new System.Drawing.Point(68, 108);
+            this.button1.Location = new System.Drawing.Point(181, 258);
+            this.button1.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(95, 71);
+            this.button1.Size = new System.Drawing.Size(253, 169);
             this.button1.TabIndex = 1;
             this.button1.Text = "Transportistas";
             this.button1.UseVisualStyleBackColor = true;
@@ -58,9 +60,10 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(461, 108);
+            this.button3.Location = new System.Drawing.Point(1229, 258);
+            this.button3.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(95, 71);
+            this.button3.Size = new System.Drawing.Size(253, 169);
             this.button3.TabIndex = 3;
             this.button3.Text = "CFDI";
             this.button3.UseVisualStyleBackColor = true;
@@ -70,18 +73,20 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(198, 30);
+            this.label1.Location = new System.Drawing.Point(528, 72);
+            this.label1.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(208, 25);
+            this.label1.Size = new System.Drawing.Size(505, 58);
             this.label1.TabIndex = 4;
             this.label1.Text = "TRASVASE TUXPAN";
             // 
             // button4
             // 
             this.button4.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.button4.Location = new System.Drawing.Point(68, 248);
+            this.button4.Location = new System.Drawing.Point(181, 591);
+            this.button4.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(95, 71);
+            this.button4.Size = new System.Drawing.Size(253, 169);
             this.button4.TabIndex = 5;
             this.button4.Text = "Guia de embarque";
             this.button4.UseVisualStyleBackColor = true;
@@ -89,16 +94,18 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(636, 406);
+            this.ClientSize = new System.Drawing.Size(1696, 968);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.button2);
+            this.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
