@@ -81,6 +81,7 @@
             this.label37 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
+            this.label38 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -533,11 +534,22 @@
             this.textBox2.Size = new System.Drawing.Size(501, 38);
             this.textBox2.TabIndex = 79;
             // 
+            // label38
+            // 
+            this.label38.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label38.Location = new System.Drawing.Point(1426, 31);
+            this.label38.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(677, 86);
+            this.label38.TabIndex = 80;
+            this.label38.Text = "CFDI";
+            // 
             // CFDI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(2910, 1714);
+            this.Controls.Add(this.label38);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label37);
@@ -654,5 +666,6 @@
         private System.Windows.Forms.Label label37;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Label label38;
     }
 }
