@@ -44,3 +44,7 @@ C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CoreCompileInpu
 C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.exe
 C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.pdb
 >>>>>>> master
+C:\Git_Inntech\interfaz\Captura\Captura\bin\Debug\MySql.Data.xml
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.Destinos.resources
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.GuiaEmbarque.resources
+C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CopyComplete
