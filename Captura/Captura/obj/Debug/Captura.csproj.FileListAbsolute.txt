@@ -28,6 +28,7 @@ C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\bin\Debug\MySql.Data.dll
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\bin\Debug\MySql.Data.xml
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CopyComplete
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.GuiaEmbarque.resources
+<<<<<<< Updated upstream
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.Destinos.resources
 =======
 C:\Git_Inntech\interfaz\Captura\Captura\bin\Debug\Captura.exe.config
@@ -48,3 +49,21 @@ C:\Git_Inntech\interfaz\Captura\Captura\bin\Debug\MySql.Data.xml
 C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.Destinos.resources
 C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.GuiaEmbarque.resources
 C:\Git_Inntech\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CopyComplete
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\bin\Debug\Captura.exe.config
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\bin\Debug\Captura.exe
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\bin\Debug\Captura.pdb
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\bin\Debug\MySql.Data.xml
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.csprojAssemblyReference.cache
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.CFDI.resources
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.Datos.resources
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.Form1.resources
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.GuiaEmbarque.resources
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.Properties.Resources.resources
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.Transportistas.resources
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.csproj.GenerateResource.cache
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CoreCompileInputs.cache
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CopyComplete
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.exe
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.pdb
+>>>>>>> Stashed changes
+C:\Users\ESTEFANIA\Documents\GitKraken\SistemaTrasvase\interfaz\Captura\Captura\obj\Debug\Captura.Destinos.resources
