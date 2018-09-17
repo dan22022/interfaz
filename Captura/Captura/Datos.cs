@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Captura
 {
-    public partial class Datos : Form
+    public partial class Destinos : Form
     {
-        public Datos()
+        public Destinos()
         {
             InitializeComponent();
         }

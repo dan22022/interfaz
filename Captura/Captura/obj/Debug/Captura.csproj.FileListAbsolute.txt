@@ -16,7 +16,6 @@ C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\bin\Debug\Captura.exe
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\bin\Debug\Captura.pdb
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.csprojAssemblyReference.cache
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.CFDI.resources
-C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.Datos.resources
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.Form1.resources
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.Properties.Resources.resources
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.Transportistas.resources
@@ -28,3 +27,4 @@ C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\bin\Debug\MySql.Data.dll
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\bin\Debug\MySql.Data.xml
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.csproj.CopyComplete
 C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.GuiaEmbarque.resources
+C:\Users\dadan\Documents\IN\interfaz\Captura\Captura\obj\Debug\Captura.Destinos.resources

@@ -27,7 +27,7 @@ namespace Captura
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Datos b = new Datos();
+            Destinos b = new Destinos();
             this.Visible = false;
             b.Hide();
             b.Show();
